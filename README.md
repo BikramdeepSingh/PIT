@@ -12,3 +12,9 @@ PIT (PRO INSIGHTFUL TRADING) is a Python application focusing on to help the tra
 - Logo
 
 ![App Screenshot](https://github.com/BikramdeepSingh/PIT/blob/development/media/pit_logo.jpg?raw=true)
+
+## Documentation
+
+The documentation and team management is done using JIRA and Confluence
+
+- (https://pit-trade.atlassian.net/jira/software/projects/PIT/boards/1)
